@@ -1,0 +1,13 @@
+{
+  "name": "spdy-with-server-push-tutorial",
+  "description": "A short tutorial on creating a SPDY server and using server push",
+  "author": "Eric Allam <rubymaverick@gmail.com>",
+  "keywords": ["spdy", "tutorial"],
+  "version": "0.0.1",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "spdy": "1.4.3"
+  }
+}
